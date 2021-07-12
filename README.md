@@ -49,7 +49,7 @@ The camera and mic toggle functionalities contribute to the usability of the app
 ![Screenshot 2021-07-12 13 38 26](https://user-images.githubusercontent.com/70324375/125252996-91cf4e00-e316-11eb-90a9-8d281fec457a.png)
 
 **6. Invite Users**
-The invite feature allows a user to share the meeting link directly through email or WhatsApp to fellow participants, hence furthering the extensibility of the project.  
+The invite feature allows a user to share the meeting link directly through _email_ or _WhatsApp_ to fellow participants, hence furthering the extensibility of the project.  
 
 ![Screenshot 2021-07-12 13 41 17](https://user-images.githubusercontent.com/70324375/125253380-f9859900-e316-11eb-8d44-869cc5291121.png)
 ![Screenshot 2021-07-12 13 52 13](https://user-images.githubusercontent.com/70324375/125254786-6cdbda80-e318-11eb-9747-9b31ebae6ff0.png)
