@@ -16,8 +16,8 @@ For running the project on the local machine ( http://127.0.0.1:8000/ ) , follow
 
 5. This will run the website on the local machine URL- http://127.0.0.1:8000/       
 
-Video Demo Link: https://www.youtube.com/watch?v=0usK6DNnAzw
-Presentation Link: https://drive.google.com/file/d/1Y9pa...   
+**Video Demo Link:** https://www.youtube.com/watch?v=0usK6DNnAzw   
+**Presentation Link:** https://drive.google.com/file/d/1Y9pa...     
 
 **Scrum** methodology under **Agile** framework has been used for developing this project. It relies on incremental development, with each iteration consisting of half-week sprints, where each sprint’s goal is to build the most important feature (mandatory functionality) first and come out with a potentially deliverable product. More features are built into the project in subsequent sprints and are adjusted based on the Microsoft Mentor feedback between sprints.
 
